@@ -611,10 +611,6 @@ video {
   --tw-gradient-to: #1e40af var(--tw-gradient-to-position);
 }
 
-.bg-center {
-  background-position: center;
-}
-
 .p-2 {
   padding: 0.5rem;
 }
