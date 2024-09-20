@@ -611,13 +611,6 @@ video {
   --tw-gradient-to: #1e40af var(--tw-gradient-to-position);
 }
 
-<<<<<<< HEAD
-=======
-.bg-center {
-  background-position: center;
-}
-
->>>>>>> nueva-rama
 .p-2 {
   padding: 0.5rem;
 }
